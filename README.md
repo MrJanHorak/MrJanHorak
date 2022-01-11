@@ -1,5 +1,7 @@
 Hello friend, I’m Jan Horak - 👋
 
+My readme is currently a work in progress. Check back in a day or two and it will be finished. For now, thank you for coming by! Feel free to connect with me or see some of these projects in action by visiting my portfolio: https://janhorak.dev
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
