@@ -7,7 +7,7 @@ My readme is currently a work in progress. Check back in a day or two and it wil
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Xbox](https://img.shields.io/badge/<handle>-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
+![Xbox](https://img.shields.io/badge/janny_b_goode-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
 
 
 - 👀 I’m interested in ...
@@ -21,6 +21,8 @@ My readme is currently a work in progress. Check back in a day or two and it wil
   
 - 📫 How to reach me ...
 
+[![MrJanHorak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrJanHorak&theme=radical&count_private=true)](https://https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJanHorak&theme=radical&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.deta.dev/badge?page_id=MrJanHorak&left_color=red&right_color=green)
 
