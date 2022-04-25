@@ -3,7 +3,7 @@ Hello friend, I’m Jan Horak - 👋
 My readme is a constant work in progress. Thank you for coming by! Feel free to connect with me or see some of these projects in action by visiting my portfolio: https://janhorak.dev
 
 - 👀 I’m interested in ...
-      virtually anything technical, space related, science realted and fun random facts. I love taking long walks, taking pictures, fixing things, learning how things work.
+      virtually anything technical, space related, science related and fun random facts. I love taking long walks, taking pictures, fixing things, learning how things work.
   
 - 🌱 I’m currently learning ...
       patience in the job search process, more JavaScript and Python, Arduino (C++)
