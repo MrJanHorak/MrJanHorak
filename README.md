@@ -6,7 +6,7 @@ My readme is a constant work in progress. Thank you for coming by! Feel free to 
       virtually anything technical, space related, science related and fun random facts. I love taking long walks, taking pictures, fixing things, learning how things work.
   
 - 🌱 I’m currently learning ...
-      patience in the job search process, more JavaScript and Python, Arduino (C++)
+      patience in the job search process, more JavaScript, React and Python, C#
 
 - 💞️ I’m looking to collaborate on ...
       anything really, input, sharing ideas, working on projects together is always educational, fun and useful. 
