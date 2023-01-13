@@ -21,7 +21,7 @@ Feel free to connect with me or see some of these projects in action by visiting
 [![MrJanHorak's GitHub stats](https://jans-github-readme-stats.vercel.app/api?username=MrJanHorak&theme=radical&count_private=true)](https://https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://jans-github-readme-stats.vercel.app/api/top-langs/?username=MrJanHorak&theme=radical&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Spotify](https://showcurrentspotifysongongithubreadme.vercel.app/api/spotify)](https://open.spotify.com/user/jhorak)
+[![Spotify](https://showcurrentspotifysongongithubreadme.vercel.app/api/spotify-playing)](https://open.spotify.com/user/jhorak)
 
 <!---
 MrJanHorak/MrJanHorak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
