@@ -15,9 +15,9 @@ Feel free to connect with me or see some of these projects in action by visiting
       anything really: input, sharing ideas, working on projects together is always educational, fun and useful. 
   
 - 📫 How to reach me ...
-<div align="center">
-     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-horak/)
 
+     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-horak/)
+<div align="center">
 [![MrJanHorak's GitHub stats](https://jans-github-readme-stats.vercel.app/api?username=MrJanHorak&theme=radical&count_private=true)](https://https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://jans-github-readme-stats.vercel.app/api/top-langs/?username=MrJanHorak&theme=radical&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 
