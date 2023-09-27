@@ -1,3 +1,5 @@
+<a href="https://imgur.com/26DOn41"><img src="https://i.imgur.com/26DOn41.png" title="source: imgur.com" /></a>
+
 Hello friend, I’m Jan Horak - 👋
 
 My readme is a constant work in progress. Thank you for coming by! 
@@ -22,7 +24,6 @@ Feel free to connect with me or see some of these projects in action by visiting
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-horak/)
 
 [![MrJanHorak's GitHub stats](https://jans-github-readme-stats.vercel.app/api?username=MrJanHorak&theme=radical&count_private=true)](https://https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://jans-github-readme-stats.vercel.app/api/top-langs/?username=MrJanHorak&theme=radical&count_private=true&layout=compact&hide=PLpgSQL)](https://github.com/anuraghazra/github-readme-stats)
 
