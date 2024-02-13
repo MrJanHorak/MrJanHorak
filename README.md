@@ -11,7 +11,7 @@ Feel free to connect with me or see some of these projects in action by visiting
   
 - 🌱 I’m currently learning ...
       the joy of teaching others JavaScript, React, Python and the foundations of Software development.
-      I myself am diving deeper into React, React Native, TypeScript,generative AI and LLMs.
+      I myself am diving deeper into React, React Native, TypeScript, generative AI and LLMs.
 
 - 💞️ I’m looking to collaborate on ...
       anything really. Receiving input, sharing ideas, working on projects together is always educational, fun and useful. 
