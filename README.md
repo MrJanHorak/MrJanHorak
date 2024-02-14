@@ -7,7 +7,7 @@ Feel free to connect with me or see some of these projects in action by visiting
 
 - 👀 I’m interested in ...
       virtually anything technical, space related, science related and fun random facts.
-      I love taking long walks, taking pictures of buildings, landscapes, and the milky way,I also enjoy fixing things and learning how things work.
+      I love taking long walks, taking pictures of buildings, landscapes, and the milky way, I also enjoy fixing things and learning how things work.
   
 - 🌱 I’m currently learning ...
       the joy of teaching others JavaScript, React, Python and the foundations of Software development.
