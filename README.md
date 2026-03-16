@@ -33,7 +33,6 @@ Feel free to connect with me or see some of these projects in action by visiting
 
 </p>
 
-![Spotify](https://showcurrentspotifysongongithubreadme.vercel.app/api/spotify)
 </div>
 <!---
 MrJanHorak/MrJanHorak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
